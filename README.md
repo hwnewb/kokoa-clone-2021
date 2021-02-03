@@ -1,3 +1,3 @@
-#Kokoa Clone 2021 Update
+# Kokoa Clone 2021 Update
 
-first time github
+my first github commit
